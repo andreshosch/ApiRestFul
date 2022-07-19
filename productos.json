@@ -1,0 +1,19 @@
+[{
+        "title": "Gorro",
+        "price": "1714.58",
+        "thumbnail": "imagenGorro",
+        "id": 1
+    },
+    {
+        "title": "Remera",
+        "price": "478.25",
+        "thumbnail": "imagenRemera",
+        "id": 2
+    },
+    {
+        "title": "Buzo",
+        "price": "784.2",
+        "thumbnail": "imagenBuzo",
+        "id": 3
+    }
+]
